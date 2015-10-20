@@ -14,7 +14,7 @@
         rel="stylesheet"
         type="text/css"
         >
-    <link href="css/app.css" rel="stylesheet">
+    <link href="/css/app.css" rel="stylesheet">
 </head>
 <body>
 
