@@ -1,3 +1,3 @@
 # Beginner Web Design
 
-Files for the Beginner web design course.
+Exercise files for the course **Beginner Web Design**
